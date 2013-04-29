@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.treeview.TreeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/treelayout"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+     >
+    
+
+</com.example.treeview.TreeLayout>
